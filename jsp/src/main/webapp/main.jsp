@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 main.jsp
+user1 에서 작성
+
+
 </body>
 </html>
